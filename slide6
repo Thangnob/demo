@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<html>
+  <head>
+    <script>
+      //Hàm hiển thị alert
+      //Function to change heading
+      function hello() {
+        alert('Welcome to JS!');
+        document.querySelector('h1').innerHTML = '2nd JavaScript!';
+      }
+    </script>
+    <title>Nguyễn Văn Thắng-2121050438</title>
